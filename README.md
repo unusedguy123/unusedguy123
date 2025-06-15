@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @summondiyh
-- 📫 How to reach me @unused_guy069
+- 👋 Hi, I’m Richard
+- 📫 How to reach me @r1chd_
 
 <!---
 unusedguy123/unusedguy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
